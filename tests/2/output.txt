@@ -1,0 +1,22 @@
+Sphere {
+	radius = 1000
+	square() = 12566370.614359172
+}
+Tetrahedron {
+	edge_length = 100
+	square() = 17320.508075688773
+}
+Parallelepiped {
+	length = 9
+	width = 3
+	height = 6
+	square() = 198
+}
+Sphere {
+	radius = 1000
+	square() = 12566370.614359172
+}
+Sphere {
+	radius = 10000
+	square() = 1256637061.4359171
+}

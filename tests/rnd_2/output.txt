@@ -1,0 +1,2320 @@
+Parallelepiped {
+	length = 776
+	width = 791
+	height = 157
+	square() = 1719670
+}
+Parallelepiped {
+	length = 63
+	width = 113
+	height = 420
+	square() = 162078
+}
+Sphere {
+	radius = 882
+	square() = 9775681.293804744
+}
+Tetrahedron {
+	edge_length = 279
+	square() = 134824.56691196896
+}
+Sphere {
+	radius = 339
+	square() = 1444139.8773727706
+}
+Tetrahedron {
+	edge_length = 738
+	square() = 943351.0800375436
+}
+Parallelepiped {
+	length = 121
+	width = 538
+	height = 196
+	square() = 388524
+}
+Tetrahedron {
+	edge_length = 815
+	square() = 1150471.4476574375
+}
+Sphere {
+	radius = 246
+	square() = 760466.4840985597
+}
+Sphere {
+	radius = 742
+	square() = 6918591.270924044
+}
+Parallelepiped {
+	length = 805
+	width = 831
+	height = 235
+	square() = 2106830
+}
+Parallelepiped {
+	length = 808
+	width = 395
+	height = 978
+	square() = 2991388
+}
+Sphere {
+	radius = 635
+	square() = 5067074.790974977
+}
+Sphere {
+	radius = 453
+	square() = 2578732.3474020315
+}
+Sphere {
+	radius = 98
+	square() = 120687.4233803055
+}
+Sphere {
+	radius = 960
+	square() = 11581167.158193413
+}
+Sphere {
+	radius = 195
+	square() = 477836.24261100753
+}
+Parallelepiped {
+	length = 354
+	width = 989
+	height = 842
+	square() = 2961824
+}
+Sphere {
+	radius = 67
+	square() = 56410.43768785833
+}
+Tetrahedron {
+	edge_length = 501
+	square() = 434746.48475059576
+}
+Parallelepiped {
+	length = 409
+	width = 689
+	height = 519
+	square() = 1703326
+}
+Tetrahedron {
+	edge_length = 844
+	square() = 1233802.1440603838
+}
+Tetrahedron {
+	edge_length = 349
+	square() = 210965.52041269682
+}
+Tetrahedron {
+	edge_length = 688
+	square() = 819855.8574578826
+}
+Parallelepiped {
+	length = 535
+	width = 779
+	height = 85
+	square() = 1056910
+}
+Sphere {
+	radius = 394
+	square() = 1950753.1086906604
+}
+Sphere {
+	radius = 465
+	square() = 2717163.486089812
+}
+Sphere {
+	radius = 525
+	square() = 3463605.900582747
+}
+Sphere {
+	radius = 574
+	square() = 4140317.5245366027
+}
+Parallelepiped {
+	length = 552
+	width = 459
+	height = 501
+	square() = 1519758
+}
+Sphere {
+	radius = 360
+	square() = 1628601.6316209487
+}
+Tetrahedron {
+	edge_length = 258
+	square() = 115292.22995501474
+}
+Sphere {
+	radius = 655
+	square() = 5391287.152825444
+}
+Sphere {
+	radius = 29
+	square() = 10568.317686676064
+}
+Parallelepiped {
+	length = 114
+	width = 680
+	height = 492
+	square() = 936336
+}
+Tetrahedron {
+	edge_length = 866
+	square() = 1298961.895441125
+}
+Sphere {
+	radius = 659
+	square() = 5457335.996774516
+}
+Tetrahedron {
+	edge_length = 426
+	square() = 314325.6523543696
+}
+Sphere {
+	radius = 809
+	square() = 8224450.806056405
+}
+Tetrahedron {
+	edge_length = 572
+	square() = 566699.3114236156
+}
+Sphere {
+	radius = 266
+	square() = 889146.1191895975
+}
+Tetrahedron {
+	edge_length = 970
+	square() = 1629686.6048415566
+}
+Parallelepiped {
+	length = 333
+	width = 969
+	height = 603
+	square() = 2215566
+}
+Parallelepiped {
+	length = 464
+	width = 199
+	height = 460
+	square() = 794632
+}
+Sphere {
+	radius = 98
+	square() = 120687.4233803055
+}
+Sphere {
+	radius = 797
+	square() = 7982271.711576476
+}
+Parallelepiped {
+	length = 947
+	width = 341
+	height = 232
+	square() = 1243486
+}
+Parallelepiped {
+	length = 10
+	width = 314
+	height = 378
+	square() = 251224
+}
+Sphere {
+	radius = 175
+	square() = 384845.10006474965
+}
+Tetrahedron {
+	edge_length = 887
+	square() = 1362723.8818201579
+}
+Tetrahedron {
+	edge_length = 407
+	square() = 286912.48422297696
+}
+Parallelepiped {
+	length = 632
+	width = 253
+	height = 56
+	square() = 418912
+}
+Tetrahedron {
+	edge_length = 216
+	square() = 80810.56247793353
+}
+Sphere {
+	radius = 199
+	square() = 497640.8426992376
+}
+Sphere {
+	radius = 710
+	square() = 6334707.426698458
+}
+Tetrahedron {
+	edge_length = 84
+	square() = 12221.350498205997
+}
+Sphere {
+	radius = 359
+	square() = 1619566.4111492245
+}
+Tetrahedron {
+	edge_length = 749
+	square() = 971682.2350969476
+}
+Tetrahedron {
+	edge_length = 394
+	square() = 268876.6391637622
+}
+Tetrahedron {
+	edge_length = 450
+	square() = 350740.28853269765
+}
+Sphere {
+	radius = 88
+	square() = 97313.97403759744
+}
+Sphere {
+	radius = 916
+	square() = 10543888.66220175
+}
+Tetrahedron {
+	edge_length = 305
+	square() = 161124.0263740948
+}
+Parallelepiped {
+	length = 172
+	width = 28
+	height = 174
+	square() = 79232
+}
+Tetrahedron {
+	edge_length = 4
+	square() = 27.712812921102035
+}
+Tetrahedron {
+	edge_length = 883
+	square() = 1350460.9621025703
+}
+Tetrahedron {
+	edge_length = 744
+	square() = 958752.475818446
+}
+Tetrahedron {
+	edge_length = 31
+	square() = 1664.500826073691
+}
+Parallelepiped {
+	length = 787
+	width = 226
+	height = 83
+	square() = 523882
+}
+Parallelepiped {
+	length = 261
+	width = 971
+	height = 850
+	square() = 2601262
+}
+Tetrahedron {
+	edge_length = 695
+	square() = 836623.8413259569
+}
+Parallelepiped {
+	length = 160
+	width = 416
+	height = 345
+	square() = 530560
+}
+Tetrahedron {
+	edge_length = 252
+	square() = 109992.15448385397
+}
+Parallelepiped {
+	length = 231
+	width = 562
+	height = 997
+	square() = 1840886
+}
+Parallelepiped {
+	length = 350
+	width = 145
+	height = 176
+	square() = 275740
+}
+Tetrahedron {
+	edge_length = 303
+	square() = 159017.85259209105
+}
+Sphere {
+	radius = 270
+	square() = 916088.4177867837
+}
+Tetrahedron {
+	edge_length = 895
+	square() = 1387415.9981328598
+}
+Tetrahedron {
+	edge_length = 779
+	square() = 1051079.444115905
+}
+Parallelepiped {
+	length = 803
+	width = 679
+	height = 217
+	square() = 1733662
+}
+Parallelepiped {
+	length = 261
+	width = 618
+	height = 631
+	square() = 1431894
+}
+Sphere {
+	radius = 979
+	square() = 12044124.81799702
+}
+Tetrahedron {
+	edge_length = 81
+	square() = 11363.985348459404
+}
+Sphere {
+	radius = 794
+	square() = 7922292.424634139
+}
+Sphere {
+	radius = 669
+	square() = 5624217.3985332055
+}
+Sphere {
+	radius = 956
+	square() = 11484858.493804965
+}
+Sphere {
+	radius = 17
+	square() = 3631.681107549801
+}
+Sphere {
+	radius = 763
+	square() = 7315751.414190865
+}
+Tetrahedron {
+	edge_length = 486
+	square() = 409103.4725445385
+}
+Tetrahedron {
+	edge_length = 215
+	square() = 80064.04857987135
+}
+Tetrahedron {
+	edge_length = 532
+	square() = 490211.9477613739
+}
+Sphere {
+	radius = 95
+	square() = 113411.49479459153
+}
+Sphere {
+	radius = 970
+	square() = 11823698.111050546
+}
+Tetrahedron {
+	edge_length = 772
+	square() = 1032274.5684981297
+}
+Parallelepiped {
+	length = 526
+	width = 601
+	height = 873
+	square() = 2599994
+}
+Sphere {
+	radius = 567
+	square() = 4039949.922439716
+}
+Tetrahedron {
+	edge_length = 277
+	square() = 132898.52641395238
+}
+Parallelepiped {
+	length = 403
+	width = 878
+	height = 267
+	square() = 1391722
+}
+Tetrahedron {
+	edge_length = 207
+	square() = 74216.64505351882
+}
+Parallelepiped {
+	length = 63
+	width = 784
+	height = 205
+	square() = 446054
+}
+Tetrahedron {
+	edge_length = 314
+	square() = 170773.281423061
+}
+Parallelepiped {
+	length = 172
+	width = 511
+	height = 292
+	square() = 574656
+}
+Sphere {
+	radius = 359
+	square() = 1619566.4111492245
+}
+Parallelepiped {
+	length = 316
+	width = 293
+	height = 395
+	square() = 666286
+}
+Parallelepiped {
+	length = 1
+	width = 991
+	height = 481
+	square() = 956286
+}
+Sphere {
+	radius = 846
+	square() = 8993952.510626689
+}
+Tetrahedron {
+	edge_length = 391
+	square() = 264797.6595119375
+}
+Tetrahedron {
+	edge_length = 826
+	square() = 1181736.6967848632
+}
+Sphere {
+	radius = 950
+	square() = 11341149.479459153
+}
+Sphere {
+	radius = 126
+	square() = 199503.69987356622
+}
+Parallelepiped {
+	length = 273
+	width = 771
+	height = 0
+	square() = 420966
+}
+Tetrahedron {
+	edge_length = 496
+	square() = 426112.2114748649
+}
+Parallelepiped {
+	length = 615
+	width = 35
+	height = 367
+	square() = 520150
+}
+Parallelepiped {
+	length = 419
+	width = 572
+	height = 144
+	square() = 764744
+}
+Tetrahedron {
+	edge_length = 277
+	square() = 132898.52641395238
+}
+Parallelepiped {
+	length = 49
+	width = 501
+	height = 847
+	square() = 980798
+}
+Sphere {
+	radius = 340
+	square() = 1452672.4430199203
+}
+Parallelepiped {
+	length = 358
+	width = 903
+	height = 767
+	square() = 2580922
+}
+Parallelepiped {
+	length = 920
+	width = 761
+	height = 280
+	square() = 2341600
+}
+Parallelepiped {
+	length = 279
+	width = 313
+	height = 488
+	square() = 752446
+}
+Sphere {
+	radius = 561
+	square() = 3954900.726121733
+}
+Sphere {
+	radius = 958
+	square() = 11532962.560516732
+}
+Tetrahedron {
+	edge_length = 248
+	square() = 106528.05286871623
+}
+Parallelepiped {
+	length = 536
+	width = 781
+	height = 245
+	square() = 1482562
+}
+Tetrahedron {
+	edge_length = 550
+	square() = 523945.36928958533
+}
+Sphere {
+	radius = 44
+	square() = 24328.49350939936
+}
+Sphere {
+	radius = 479
+	square() = 2883240.640129183
+}
+Tetrahedron {
+	edge_length = 908
+	square() = 1428013.5370114667
+}
+Sphere {
+	radius = 50
+	square() = 31415.926535897932
+}
+Sphere {
+	radius = 245
+	square() = 754296.3961269093
+}
+Parallelepiped {
+	length = 295
+	width = 43
+	height = 244
+	square() = 190314
+}
+Parallelepiped {
+	length = 81
+	width = 380
+	height = 798
+	square() = 797316
+}
+Parallelepiped {
+	length = 595
+	width = 623
+	height = 942
+	square() = 3036082
+}
+Parallelepiped {
+	length = 731
+	width = 564
+	height = 613
+	square() = 2412238
+}
+Tetrahedron {
+	edge_length = 154
+	square() = 41077.31695230349
+}
+Parallelepiped {
+	length = 295
+	width = 681
+	height = 678
+	square() = 1725246
+}
+Parallelepiped {
+	length = 312
+	width = 744
+	height = 93
+	square() = 660672
+}
+Parallelepiped {
+	length = 756
+	width = 833
+	height = 532
+	square() = 2950192
+}
+Sphere {
+	radius = 185
+	square() = 430084.03427644266
+}
+Sphere {
+	radius = 503
+	square() = 3179404.8627684
+}
+Parallelepiped {
+	length = 492
+	width = 955
+	height = 114
+	square() = 1269636
+}
+Sphere {
+	radius = 32
+	square() = 12867.963509103793
+}
+Sphere {
+	radius = 766
+	square() = 7373393.35619893
+}
+Sphere {
+	radius = 897
+	square() = 10111014.893648919
+}
+Tetrahedron {
+	edge_length = 280
+	square() = 135792.78331339997
+}
+Sphere {
+	radius = 744
+	square() = 6955938.524389919
+}
+Sphere {
+	radius = 663
+	square() = 5523786.964583247
+}
+Tetrahedron {
+	edge_length = 296
+	square() = 151755.36355595474
+}
+Tetrahedron {
+	edge_length = 436
+	square() = 329255.9303156133
+}
+Tetrahedron {
+	edge_length = 84
+	square() = 12221.350498205997
+}
+Tetrahedron {
+	edge_length = 271
+	square() = 127203.5433586659
+}
+Tetrahedron {
+	edge_length = 690
+	square() = 824629.3894835424
+}
+Tetrahedron {
+	edge_length = 189
+	square() = 61870.586897167865
+}
+Sphere {
+	radius = 233
+	square() = 682215.6942829451
+}
+Sphere {
+	radius = 940
+	square() = 11103645.074847765
+}
+Tetrahedron {
+	edge_length = 22
+	square() = 838.3125908633366
+}
+Parallelepiped {
+	length = 450
+	width = 301
+	height = 624
+	square() = 1208148
+}
+Sphere {
+	radius = 506
+	square() = 3217443.266618065
+}
+Tetrahedron {
+	edge_length = 369
+	square() = 235837.7700093859
+}
+Parallelepiped {
+	length = 615
+	width = 628
+	height = 197
+	square() = 1262182
+}
+Parallelepiped {
+	length = 479
+	width = 239
+	height = 322
+	square() = 691354
+}
+Parallelepiped {
+	length = 832
+	width = 223
+	height = 517
+	square() = 1461942
+}
+Parallelepiped {
+	length = 163
+	width = 802
+	height = 193
+	square() = 633942
+}
+Parallelepiped {
+	length = 24
+	width = 172
+	height = 325
+	square() = 135656
+}
+Sphere {
+	radius = 321
+	square() = 1294851.3944741834
+}
+Tetrahedron {
+	edge_length = 318
+	square() = 175151.90586459514
+}
+Parallelepiped {
+	length = 504
+	width = 860
+	height = 216
+	square() = 1456128
+}
+Sphere {
+	radius = 567
+	square() = 4039949.922439716
+}
+Parallelepiped {
+	length = 675
+	width = 677
+	height = 281
+	square() = 1673774
+}
+Tetrahedron {
+	edge_length = 871
+	square() = 1314004.7567048606
+}
+Tetrahedron {
+	edge_length = 319
+	square() = 176255.2222290165
+}
+Tetrahedron {
+	edge_length = 593
+	square() = 609073.934430788
+}
+Parallelepiped {
+	length = 998
+	width = 477
+	height = 375
+	square() = 2058342
+}
+Tetrahedron {
+	edge_length = 42
+	square() = 3055.337624551499
+}
+Tetrahedron {
+	edge_length = 921
+	square() = 1469196.509063032
+}
+Parallelepiped {
+	length = 31
+	width = 365
+	height = 353
+	square() = 302206
+}
+Parallelepiped {
+	length = 908
+	width = 805
+	height = 259
+	square() = 2349214
+}
+Sphere {
+	radius = 861
+	square() = 9315714.430207357
+}
+Parallelepiped {
+	length = 358
+	width = 599
+	height = 132
+	square() = 681532
+}
+Parallelepiped {
+	length = 761
+	width = 538
+	height = 691
+	square() = 2614054
+}
+Parallelepiped {
+	length = 964
+	width = 679
+	height = 193
+	square() = 1943310
+}
+Tetrahedron {
+	edge_length = 398
+	square() = 274363.7761221404
+}
+Tetrahedron {
+	edge_length = 655
+	square() = 743093.0977172375
+}
+Sphere {
+	radius = 364
+	square() = 1664993.8409201328
+}
+Parallelepiped {
+	length = 5
+	width = 410
+	height = 909
+	square() = 758570
+}
+Tetrahedron {
+	edge_length = 39
+	square() = 2634.4492783122623
+}
+Tetrahedron {
+	edge_length = 414
+	square() = 296866.5802140753
+}
+Sphere {
+	radius = 238
+	square() = 711809.497079761
+}
+Parallelepiped {
+	length = 352
+	width = 901
+	height = 632
+	square() = 2218096
+}
+Tetrahedron {
+	edge_length = 133
+	square() = 30638.246735085868
+}
+Parallelepiped {
+	length = 922
+	width = 77
+	height = 194
+	square() = 529600
+}
+Sphere {
+	radius = 64
+	square() = 51471.85403641517
+}
+Tetrahedron {
+	edge_length = 707
+	square() = 865763.8641124957
+}
+Sphere {
+	radius = 762
+	square() = 7296587.699003967
+}
+Parallelepiped {
+	length = 182
+	width = 115
+	height = 454
+	square() = 311536
+}
+Parallelepiped {
+	length = 133
+	width = 273
+	height = 911
+	square() = 812350
+}
+Parallelepiped {
+	length = 549
+	width = 968
+	height = 40
+	square() = 1184224
+}
+Parallelepiped {
+	length = 902
+	width = 858
+	height = 339
+	square() = 2741112
+}
+Parallelepiped {
+	length = 295
+	width = 653
+	height = 566
+	square() = 1458406
+}
+Parallelepiped {
+	length = 643
+	width = 22
+	height = 673
+	square() = 923382
+}
+Parallelepiped {
+	length = 224
+	width = 723
+	height = 672
+	square() = 1596672
+}
+Tetrahedron {
+	edge_length = 938
+	square() = 1523934.5107346312
+}
+Tetrahedron {
+	edge_length = 583
+	square() = 588705.0169337781
+}
+Parallelepiped {
+	length = 726
+	width = 770
+	height = 601
+	square() = 2916232
+}
+Parallelepiped {
+	length = 205
+	width = 382
+	height = 734
+	square() = 1018336
+}
+Sphere {
+	radius = 868
+	square() = 9467805.213752946
+}
+Tetrahedron {
+	edge_length = 649
+	square() = 729541.5321988186
+}
+Parallelepiped {
+	length = 279
+	width = 337
+	height = 883
+	square() = 1275902
+}
+Parallelepiped {
+	length = 437
+	width = 354
+	height = 619
+	square() = 1288654
+}
+Sphere {
+	radius = 233
+	square() = 682215.6942829451
+}
+Sphere {
+	radius = 242
+	square() = 735936.9286593306
+}
+Sphere {
+	radius = 168
+	square() = 354673.2442196733
+}
+Tetrahedron {
+	edge_length = 449
+	square() = 349183.1748566932
+}
+Sphere {
+	radius = 980
+	square() = 12068742.338030549
+}
+Sphere {
+	radius = 75
+	square() = 70685.83470577035
+}
+Tetrahedron {
+	edge_length = 963
+	square() = 1606250.225364342
+}
+Tetrahedron {
+	edge_length = 469
+	square() = 380983.6276836578
+}
+Tetrahedron {
+	edge_length = 65
+	square() = 7317.914661978506
+}
+Sphere {
+	radius = 67
+	square() = 56410.43768785833
+}
+Tetrahedron {
+	edge_length = 333
+	square() = 192065.38200050523
+}
+Tetrahedron {
+	edge_length = 693
+	square() = 831815.6682841456
+}
+Tetrahedron {
+	edge_length = 827
+	square() = 1184599.7767697745
+}
+Parallelepiped {
+	length = 279
+	width = 989
+	height = 492
+	square() = 1799574
+}
+Parallelepiped {
+	length = 859
+	width = 979
+	height = 556
+	square() = 3725778
+}
+Parallelepiped {
+	length = 918
+	width = 699
+	height = 205
+	square() = 1946334
+}
+Parallelepiped {
+	length = 135
+	width = 605
+	height = 784
+	square() = 1323670
+}
+Parallelepiped {
+	length = 837
+	width = 916
+	height = 233
+	square() = 2350282
+}
+Tetrahedron {
+	edge_length = 216
+	square() = 80810.56247793353
+}
+Tetrahedron {
+	edge_length = 302
+	square() = 157969.96185351186
+}
+Sphere {
+	radius = 757
+	square() = 7201146.114187909
+}
+Tetrahedron {
+	edge_length = 953
+	square() = 1573064.1318913223
+}
+Parallelepiped {
+	length = 306
+	width = 534
+	height = 392
+	square() = 985368
+}
+Parallelepiped {
+	length = 116
+	width = 230
+	height = 925
+	square() = 693460
+}
+Parallelepiped {
+	length = 768
+	width = 919
+	height = 249
+	square() = 2251710
+}
+Sphere {
+	radius = 633
+	square() = 5035206.475096962
+}
+Parallelepiped {
+	length = 362
+	width = 25
+	height = 175
+	square() = 153550
+}
+Sphere {
+	radius = 573
+	square() = 4125903.897441933
+}
+Sphere {
+	radius = 915
+	square() = 10520879.637606857
+}
+Tetrahedron {
+	edge_length = 5
+	square() = 43.30127018922193
+}
+Parallelepiped {
+	length = 555
+	width = 558
+	height = 115
+	square() = 875370
+}
+Tetrahedron {
+	edge_length = 982
+	square() = 1670258.16295805
+}
+Parallelepiped {
+	length = 726
+	width = 826
+	height = 279
+	square() = 2065368
+}
+Parallelepiped {
+	length = 340
+	width = 652
+	height = 204
+	square() = 848096
+}
+Tetrahedron {
+	edge_length = 929
+	square() = 1494830.8610150514
+}
+Sphere {
+	radius = 993
+	square() = 12391057.177918248
+}
+Tetrahedron {
+	edge_length = 750
+	square() = 974278.5792574934
+}
+Sphere {
+	radius = 308
+	square() = 1192096.1819605685
+}
+Tetrahedron {
+	edge_length = 506
+	square() = 443467.36056670506
+}
+Parallelepiped {
+	length = 672
+	width = 802
+	height = 23
+	square() = 1145692
+}
+Sphere {
+	radius = 649
+	square() = 5292967.869138698
+}
+Tetrahedron {
+	edge_length = 800
+	square() = 1108512.5168440815
+}
+Sphere {
+	radius = 595
+	square() = 4448809.356748506
+}
+Tetrahedron {
+	edge_length = 93
+	square() = 14980.50743466322
+}
+Tetrahedron {
+	edge_length = 33
+	square() = 1886.2033294425073
+}
+Sphere {
+	radius = 380
+	square() = 1814583.9167134645
+}
+Tetrahedron {
+	edge_length = 558
+	square() = 539298.2676478758
+}
+Sphere {
+	radius = 932
+	square() = 10915451.108527122
+}
+Parallelepiped {
+	length = 469
+	width = 322
+	height = 610
+	square() = 1267056
+}
+Parallelepiped {
+	length = 876
+	width = 436
+	height = 712
+	square() = 2632160
+}
+Sphere {
+	radius = 288
+	square() = 1042305.0442374072
+}
+Parallelepiped {
+	length = 316
+	width = 566
+	height = 455
+	square() = 1160332
+}
+Parallelepiped {
+	length = 442
+	width = 579
+	height = 558
+	square() = 1651272
+}
+Sphere {
+	radius = 602
+	square() = 4554102.976126222
+}
+Sphere {
+	radius = 575
+	square() = 4154756.2843725015
+}
+Parallelepiped {
+	length = 241
+	width = 794
+	height = 920
+	square() = 2287108
+}
+Parallelepiped {
+	length = 767
+	width = 163
+	height = 46
+	square() = 335602
+}
+Tetrahedron {
+	edge_length = 353
+	square() = 215829.1190803502
+}
+Tetrahedron {
+	edge_length = 411
+	square() = 292579.7544653423
+}
+Sphere {
+	radius = 555
+	square() = 3870756.308487984
+}
+Sphere {
+	radius = 872
+	square() = 9555267.153228885
+}
+Tetrahedron {
+	edge_length = 161
+	square() = 44896.488982992865
+}
+Tetrahedron {
+	edge_length = 767
+	square() = 1018946.4375338872
+}
+Tetrahedron {
+	edge_length = 899
+	square() = 1399845.194727974
+}
+Sphere {
+	radius = 896
+	square() = 10088483.391137373
+}
+Tetrahedron {
+	edge_length = 37
+	square() = 2371.177555561793
+}
+Sphere {
+	radius = 667
+	square() = 5590640.056251638
+}
+Parallelepiped {
+	length = 383
+	width = 29
+	height = 203
+	square() = 189486
+}
+Sphere {
+	radius = 240
+	square() = 723822.9473870883
+}
+Parallelepiped {
+	length = 78
+	width = 912
+	height = 136
+	square() = 411552
+}
+Sphere {
+	radius = 486
+	square() = 2968126.473629179
+}
+Tetrahedron {
+	edge_length = 938
+	square() = 1523934.5107346312
+}
+Sphere {
+	radius = 81
+	square() = 82447.95760081054
+}
+Sphere {
+	radius = 23
+	square() = 6647.610054996002
+}
+Tetrahedron {
+	edge_length = 530
+	square() = 486533.0718460976
+}
+Tetrahedron {
+	edge_length = 322
+	square() = 179585.95593197146
+}
+Sphere {
+	radius = 455
+	square() = 2601552.876437708
+}
+Parallelepiped {
+	length = 703
+	width = 217
+	height = 375
+	square() = 995102
+}
+Tetrahedron {
+	edge_length = 819
+	square() = 1161792.1317357076
+}
+Sphere {
+	radius = 992
+	square() = 12366112.932248745
+}
+Parallelepiped {
+	length = 692
+	width = 145
+	height = 976
+	square() = 1834504
+}
+Sphere {
+	radius = 915
+	square() = 10520879.637606857
+}
+Tetrahedron {
+	edge_length = 952
+	square() = 1569764.5751029036
+}
+Parallelepiped {
+	length = 15
+	width = 309
+	height = 324
+	square() = 219222
+}
+Parallelepiped {
+	length = 576
+	width = 898
+	height = 154
+	square() = 1488488
+}
+Parallelepiped {
+	length = 870
+	width = 929
+	height = 109
+	square() = 2008642
+}
+Parallelepiped {
+	length = 617
+	width = 638
+	height = 239
+	square() = 1387182
+}
+Sphere {
+	radius = 254
+	square() = 810731.9665559963
+}
+Parallelepiped {
+	length = 447
+	width = 48
+	height = 60
+	square() = 102312
+}
+Tetrahedron {
+	edge_length = 672
+	square() = 782166.4318851838
+}
+Tetrahedron {
+	edge_length = 949
+	square() = 1559886.6893473384
+}
+Sphere {
+	radius = 488
+	square() = 2992605.7635859507
+}
+Tetrahedron {
+	edge_length = 360
+	square() = 224473.7846609265
+}
+Tetrahedron {
+	edge_length = 773
+	square() = 1034950.5869958237
+}
+Sphere {
+	radius = 470
+	square() = 2775911.2687119413
+}
+Sphere {
+	radius = 537
+	square() = 3623751.7276921403
+}
+Tetrahedron {
+	edge_length = 229
+	square() = 90830.47639971948
+}
+Tetrahedron {
+	edge_length = 98
+	square() = 16634.615955891495
+}
+Sphere {
+	radius = 228
+	square() = 653250.2100168472
+}
+Sphere {
+	radius = 395
+	square() = 1960667.97510539
+}
+Parallelepiped {
+	length = 780
+	width = 984
+	height = 261
+	square() = 2455848
+}
+Sphere {
+	radius = 796
+	square() = 7962253.483187801
+}
+Parallelepiped {
+	length = 246
+	width = 556
+	height = 957
+	square() = 1808580
+}
+Tetrahedron {
+	edge_length = 344
+	square() = 204963.96436447065
+}
+Tetrahedron {
+	edge_length = 598
+	square() = 619388.2969898607
+}
+Sphere {
+	radius = 23
+	square() = 6647.610054996002
+}
+Parallelepiped {
+	length = 360
+	width = 393
+	height = 736
+	square() = 1391376
+}
+Tetrahedron {
+	edge_length = 835
+	square() = 1207629.1243072103
+}
+Parallelepiped {
+	length = 187
+	width = 133
+	height = 61
+	square() = 88782
+}
+Parallelepiped {
+	length = 554
+	width = 210
+	height = 597
+	square() = 1144896
+}
+Tetrahedron {
+	edge_length = 992
+	square() = 1704448.8458994597
+}
+Tetrahedron {
+	edge_length = 886
+	square() = 1359652.9557383384
+}
+Tetrahedron {
+	edge_length = 850
+	square() = 1251406.7084685138
+}
+Parallelepiped {
+	length = 725
+	width = 625
+	height = 850
+	square() = 3201250
+}
+Tetrahedron {
+	edge_length = 330
+	square() = 188620.33294425072
+}
+Sphere {
+	radius = 500
+	square() = 3141592.653589793
+}
+Sphere {
+	radius = 347
+	square() = 1513104.1193043736
+}
+Tetrahedron {
+	edge_length = 769
+	square() = 1024267.2976147388
+}
+Parallelepiped {
+	length = 174
+	width = 146
+	height = 404
+	square() = 309368
+}
+Parallelepiped {
+	length = 177
+	width = 598
+	height = 181
+	square() = 492242
+}
+Parallelepiped {
+	length = 407
+	width = 135
+	height = 305
+	square() = 440510
+}
+Sphere {
+	radius = 618
+	square() = 4799398.530518512
+}
+Tetrahedron {
+	edge_length = 846
+	square() = 1239656.4757899665
+}
+Tetrahedron {
+	edge_length = 736
+	square() = 938244.9942568305
+}
+Sphere {
+	radius = 989
+	square() = 12291430.991687609
+}
+Parallelepiped {
+	length = 344
+	width = 197
+	height = 86
+	square() = 228588
+}
+Tetrahedron {
+	edge_length = 161
+	square() = 44896.488982992865
+}
+Parallelepiped {
+	length = 245
+	width = 503
+	height = 231
+	square() = 592046
+}
+Sphere {
+	radius = 371
+	square() = 1729647.817731011
+}
+Parallelepiped {
+	length = 911
+	width = 649
+	height = 876
+	square() = 3915598
+}
+Parallelepiped {
+	length = 186
+	width = 647
+	height = 74
+	square() = 363968
+}
+Parallelepiped {
+	length = 153
+	width = 465
+	height = 761
+	square() = 1082886
+}
+Tetrahedron {
+	edge_length = 726
+	square() = 912922.4114501735
+}
+Tetrahedron {
+	edge_length = 416
+	square() = 299741.7845546396
+}
+Tetrahedron {
+	edge_length = 447
+	square() = 346079.3398095298
+}
+Sphere {
+	radius = 602
+	square() = 4554102.976126222
+}
+Tetrahedron {
+	edge_length = 925
+	square() = 1481985.9722261205
+}
+Tetrahedron {
+	edge_length = 372
+	square() = 239688.1189546115
+}
+Tetrahedron {
+	edge_length = 971
+	square() = 1633048.5154590476
+}
+Tetrahedron {
+	edge_length = 327
+	square() = 185206.46080253247
+}
+Sphere {
+	radius = 76
+	square() = 72583.35666853857
+}
+Parallelepiped {
+	length = 160
+	width = 483
+	height = 922
+	square() = 1340252
+}
+Parallelepiped {
+	length = 495
+	width = 287
+	height = 857
+	square() = 1624478
+}
+Tetrahedron {
+	edge_length = 160
+	square() = 44340.50067376326
+}
+Tetrahedron {
+	edge_length = 584
+	square() = 590726.320226211
+}
+Sphere {
+	radius = 868
+	square() = 9467805.213752946
+}
+Parallelepiped {
+	length = 593
+	width = 905
+	height = 942
+	square() = 3895562
+}
+Parallelepiped {
+	length = 151
+	width = 647
+	height = 766
+	square() = 1417930
+}
+Parallelepiped {
+	length = 131
+	width = 825
+	height = 196
+	square() = 590902
+}
+Sphere {
+	radius = 757
+	square() = 7201146.114187909
+}
+Parallelepiped {
+	length = 131
+	width = 725
+	height = 467
+	square() = 989454
+}
+Sphere {
+	radius = 630
+	square() = 4987592.496839155
+}
+Sphere {
+	radius = 231
+	square() = 670554.1023528198
+}
+Parallelepiped {
+	length = 909
+	width = 527
+	height = 912
+	square() = 3577350
+}
+Sphere {
+	radius = 824
+	square() = 8532264.054255133
+}
+Parallelepiped {
+	length = 502
+	width = 573
+	height = 483
+	square() = 1613742
+}
+Parallelepiped {
+	length = 258
+	width = 652
+	height = 433
+	square() = 1124492
+}
+Sphere {
+	radius = 882
+	square() = 9775681.293804744
+}
+Parallelepiped {
+	length = 684
+	width = 633
+	height = 562
+	square() = 2346252
+}
+Parallelepiped {
+	length = 443
+	width = 687
+	height = 861
+	square() = 2554542
+}
+Sphere {
+	radius = 74
+	square() = 68813.44548423083
+}
+Tetrahedron {
+	edge_length = 486
+	square() = 409103.4725445385
+}
+Tetrahedron {
+	edge_length = 446
+	square() = 344532.61843837076
+}
+Tetrahedron {
+	edge_length = 932
+	square() = 1504500.9006737084
+}
+Sphere {
+	radius = 501
+	square() = 3154171.5905747665
+}
+Sphere {
+	radius = 812
+	square() = 8285561.0663540345
+}
+Parallelepiped {
+	length = 246
+	width = 497
+	height = 342
+	square() = 752736
+}
+Tetrahedron {
+	edge_length = 712
+	square() = 878052.7645921969
+}
+Parallelepiped {
+	length = 135
+	width = 795
+	height = 846
+	square() = 1788210
+}
+Parallelepiped {
+	length = 945
+	width = 59
+	height = 763
+	square() = 1643614
+}
+Sphere {
+	radius = 862
+	square() = 9337366.286775896
+}
+Parallelepiped {
+	length = 633
+	width = 174
+	height = 915
+	square() = 1697094
+}
+Tetrahedron {
+	edge_length = 982
+	square() = 1670258.16295805
+}
+Sphere {
+	radius = 999
+	square() = 12541250.439501068
+}
+Sphere {
+	radius = 111
+	square() = 154830.25233951936
+}
+Sphere {
+	radius = 695
+	square() = 6069871.166000839
+}
+Tetrahedron {
+	edge_length = 432
+	square() = 323242.24991173414
+}
+Tetrahedron {
+	edge_length = 212
+	square() = 77845.29149537561
+}
+Tetrahedron {
+	edge_length = 624
+	square() = 674419.0152479392
+}
+Tetrahedron {
+	edge_length = 436
+	square() = 329255.9303156133
+}
+Parallelepiped {
+	length = 866
+	width = 167
+	height = 739
+	square() = 1816018
+}
+Parallelepiped {
+	length = 670
+	width = 307
+	height = 95
+	square() = 597010
+}
+Parallelepiped {
+	length = 522
+	width = 707
+	height = 102
+	square() = 988824
+}
+Sphere {
+	radius = 332
+	square() = 1385115.6345971255
+}
+Parallelepiped {
+	length = 674
+	width = 445
+	height = 959
+	square() = 2746102
+}
+Sphere {
+	radius = 118
+	square() = 174974.14443433713
+}
+Tetrahedron {
+	edge_length = 821
+	square() = 1167473.2583845335
+}
+Sphere {
+	radius = 926
+	square() = 10775361.208918246
+}
+Sphere {
+	radius = 346
+	square() = 1504395.6244686227
+}
+Parallelepiped {
+	length = 607
+	width = 454
+	height = 543
+	square() = 1703402
+}
+Parallelepiped {
+	length = 155
+	width = 623
+	height = 593
+	square() = 1115838
+}
+Sphere {
+	radius = 420
+	square() = 2216707.776372958
+}
+Sphere {
+	radius = 520
+	square() = 3397946.6141227204
+}
+Sphere {
+	radius = 5
+	square() = 314.1592653589793
+}
+Sphere {
+	radius = 116
+	square() = 169093.08298681703
+}
+Tetrahedron {
+	edge_length = 196
+	square() = 66538.46382356598
+}
+Parallelepiped {
+	length = 866
+	width = 404
+	height = 350
+	square() = 1588728
+}
+Parallelepiped {
+	length = 719
+	width = 815
+	height = 637
+	square() = 3126286
+}
+Sphere {
+	radius = 85
+	square() = 90792.02768874502
+}
+Parallelepiped {
+	length = 198
+	width = 231
+	height = 343
+	square() = 385770
+}
+Tetrahedron {
+	edge_length = 55
+	square() = 5239.453692895853
+}
+Parallelepiped {
+	length = 499
+	width = 805
+	height = 251
+	square() = 1457998
+}
+Tetrahedron {
+	edge_length = 474
+	square() = 389150.24724134506
+}
+Tetrahedron {
+	edge_length = 858
+	square() = 1275073.450703135
+}
+Parallelepiped {
+	length = 980
+	width = 565
+	height = 412
+	square() = 2380480
+}
+Parallelepiped {
+	length = 329
+	width = 998
+	height = 872
+	square() = 2970972
+}
+Parallelepiped {
+	length = 327
+	width = 973
+	height = 380
+	square() = 1624342
+}
+Sphere {
+	radius = 300
+	square() = 1130973.3552923256
+}
+Sphere {
+	radius = 459
+	square() = 2647495.527403805
+}
+Tetrahedron {
+	edge_length = 157
+	square() = 42693.32035576525
+}
+Tetrahedron {
+	edge_length = 531
+	square() = 488370.7777529282
+}
+Sphere {
+	radius = 147
+	square() = 271546.7026056874
+}
+Tetrahedron {
+	edge_length = 406
+	square() = 285504.32691642345
+}
+Tetrahedron {
+	edge_length = 490
+	square() = 415865.39889728744
+}
+Tetrahedron {
+	edge_length = 911
+	square() = 1437465.3382683701
+}
+Sphere {
+	radius = 73
+	square() = 66966.18900392004
+}
+Sphere {
+	radius = 952
+	square() = 11388951.953276176
+}
+Tetrahedron {
+	edge_length = 445
+	square() = 342989.36116882693
+}
+Sphere {
+	radius = 189
+	square() = 448883.324715524
+}
+Tetrahedron {
+	edge_length = 850
+	square() = 1251406.7084685138
+}
+Sphere {
+	radius = 954
+	square() = 11436854.958058113
+}
+Sphere {
+	radius = 681
+	square() = 5827792.602485824
+}
+Sphere {
+	radius = 974
+	square() = 11921414.208947802
+}
+Parallelepiped {
+	length = 927
+	width = 680
+	height = 240
+	square() = 2032080
+}
+Sphere {
+	radius = 923
+	square() = 10705655.551120395
+}
+Sphere {
+	radius = 827
+	square() = 8594505.287908055
+}
+Sphere {
+	radius = 411
+	square() = 2122723.890548166
+}
+Parallelepiped {
+	length = 33
+	width = 55
+	height = 491
+	square() = 90046
+}
+Parallelepiped {
+	length = 211
+	width = 73
+	height = 764
+	square() = 464758
+}
+Sphere {
+	radius = 648
+	square() = 5276669.286451874
+}
+Tetrahedron {
+	edge_length = 767
+	square() = 1018946.4375338872
+}
+Tetrahedron {
+	edge_length = 521
+	square() = 470149.6032573036
+}
+Parallelepiped {
+	length = 615
+	width = 483
+	height = 587
+	square() = 1883142
+}
+Tetrahedron {
+	edge_length = 191
+	square() = 63186.94551092021
+}
+Sphere {
+	radius = 535
+	square() = 3596809.429094954
+}
+Parallelepiped {
+	length = 17
+	width = 742
+	height = 902
+	square() = 1394464
+}
+Sphere {
+	radius = 121
+	square() = 183984.23216483265
+}
+Sphere {
+	radius = 112
+	square() = 157632.55298652145
+}
+Tetrahedron {
+	edge_length = 620
+	square() = 665800.3304294763
+}
+Sphere {
+	radius = 202
+	square() = 512758.18654831167
+}
+Tetrahedron {
+	edge_length = 693
+	square() = 831815.6682841456
+}
+Parallelepiped {
+	length = 263
+	width = 581
+	height = 731
+	square() = 1539534
+}
+Tetrahedron {
+	edge_length = 422
+	square() = 308450.53601509595
+}
+Tetrahedron {
+	edge_length = 545
+	square() = 514462.3911181457
+}
+Sphere {
+	radius = 40
+	square() = 20106.192982974677
+}
+Sphere {
+	radius = 586
+	square() = 4315241.403488482
+}
+Sphere {
+	radius = 536
+	square() = 3610268.012022933
+}
+Sphere {
+	radius = 803
+	square() = 8102908.8694743235
+}
+Sphere {
+	radius = 701
+	square() = 6175127.086266711
+}
+Parallelepiped {
+	length = 158
+	width = 153
+	height = 295
+	square() = 231838
+}
+Sphere {
+	radius = 584
+	square() = 4285836.096250882
+}
+Tetrahedron {
+	edge_length = 592
+	square() = 607021.454223819
+}
+Parallelepiped {
+	length = 129
+	width = 711
+	height = 804
+	square() = 1534158
+}
+Parallelepiped {
+	length = 48
+	width = 776
+	height = 70
+	square() = 189856
+}
+Parallelepiped {
+	length = 605
+	width = 72
+	height = 540
+	square() = 818280
+}
+Parallelepiped {
+	length = 899
+	width = 14
+	height = 493
+	square() = 925390
+}
+Parallelepiped {
+	length = 464
+	width = 832
+	height = 713
+	square() = 2620192
+}
+Tetrahedron {
+	edge_length = 56
+	square() = 5431.711332535999
+}
+Tetrahedron {
+	edge_length = 738
+	square() = 943351.0800375436
+}
+Sphere {
+	radius = 829
+	square() = 8636125.107382812
+}
+Sphere {
+	radius = 957
+	square() = 11508897.960790234
+}
+Sphere {
+	radius = 465
+	square() = 2717163.486089812
+}
+Tetrahedron {
+	edge_length = 545
+	square() = 514462.3911181457
+}
+Tetrahedron {
+	edge_length = 682
+	square() = 805618.3998196664
+}
+Sphere {
+	radius = 122
+	square() = 187037.86022412192
+}
+Tetrahedron {
+	edge_length = 676
+	square() = 791505.6498395952
+}
+Tetrahedron {
+	edge_length = 680
+	square() = 800900.2934198488
+}
+Sphere {
+	radius = 512
+	square() = 3294198.658330571
+}
+Tetrahedron {
+	edge_length = 171
+	square() = 50646.89766412154
+}
+Tetrahedron {
+	edge_length = 229
+	square() = 90830.47639971948
+}
+Sphere {
+	radius = 59
+	square() = 43743.53610858428
+}
+Sphere {
+	radius = 19
+	square() = 4536.459791783661
+}
+Sphere {
+	radius = 104
+	square() = 135917.8645649088
+}
+Sphere {
+	radius = 714
+	square() = 6406285.473717849
+}
+Sphere {
+	radius = 342
+	square() = 1469812.9725379061
+}
+Sphere {
+	radius = 317
+	square() = 1262782.0166663388
+}
+Sphere {
+	radius = 827
+	square() = 8594505.287908055
+}
+Sphere {
+	radius = 172
+	square() = 371763.50825520174
+}
+Tetrahedron {
+	edge_length = 764
+	square() = 1010991.1281747234
+}
+Parallelepiped {
+	length = 721
+	width = 267
+	height = 266
+	square() = 910630
+}
+Tetrahedron {
+	edge_length = 503
+	square() = 438224.44277219404
+}
+Sphere {
+	radius = 994
+	square() = 12416026.55632898
+}
+Tetrahedron {
+	edge_length = 976
+	square() = 1649910.0300707307
+}
+Sphere {
+	radius = 361
+	square() = 1637661.9848339017
+}
+Parallelepiped {
+	length = 904
+	width = 402
+	height = 188
+	square() = 1217872
+}
+Parallelepiped {
+	length = 13
+	width = 823
+	height = 833
+	square() = 1414174
+}
+Tetrahedron {
+	edge_length = 751
+	square() = 976878.3875196544
+}
+Parallelepiped {
+	length = 688
+	width = 128
+	height = 304
+	square() = 672256
+}
+Parallelepiped {
+	length = 310
+	width = 296
+	height = 454
+	square() = 733768
+}
+Tetrahedron {
+	edge_length = 10
+	square() = 173.20508075688772
+}
+Sphere {
+	radius = 701
+	square() = 6175127.086266711
+}
